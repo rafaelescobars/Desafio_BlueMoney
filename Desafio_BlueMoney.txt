@@ -1,4 +1,4 @@
-A la fecha: Mon Nov 29 2021 22:36:33 GMT-0300 (hora de verano de Chile)
+A la fecha: Mon Nov 29 2021 22:37:24 GMT-0300 (hora de verano de Chile)
 Fue realizada la cotización con los siguientes datos:
 Cantidad de pesos a convertir: 100000 pesos
 Convertido a "dolar" da un total de: 120.49
